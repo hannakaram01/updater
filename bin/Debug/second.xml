@@ -1,0 +1,28 @@
+<Updates>
+  <Update>
+    <filename>adobe.dll</filename>
+    <versionfile>1.1.1.1</versionfile>
+    <versionproduct>1.1.1.1</versionproduct>
+    <creationdate>2022/08/01</creationdate>
+    <size>12151212</size>
+  </Update>
+  <Update>
+    <filename>real.dll</filename>
+    <versionfile>1.1.1.1</versionfile>
+    <versionproduct>1.1.1.1</versionproduct>
+    <creationdate>2015/05/05</creationdate>
+    <size>12151212</size>
+  </Update><Add>
+    <filename>flush.dll</filename>
+    <versionfile>1.1.1.1</versionfile>
+    <versionproduct>1.1.1.1</versionproduct>
+    <creationdate>2022/01/02</creationdate>
+    <size>12151212</size>
+  </Add><Remove>
+    <filename>app.dll</filename>
+    <versionfile>2.2.2.2</versionfile>
+    <versionproduct>1.1.1.1</versionproduct>
+    <creationdate>2019-08-01</creationdate>
+    <size>12151212</size>
+  </Remove>
+</Updates>
